@@ -3,7 +3,7 @@
 Welcome to the Weather App built using Flutter! This app provides real-time weather information for any location.
 
 Features
-Current weather details (temperature, humidity, wind speed, etc.)
+* Current weather details (temperature, humidity, wind speed, etc.)
 
 Screenshots
 
