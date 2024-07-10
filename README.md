@@ -29,6 +29,7 @@ flutter pub get
    const String apiKey = 'YOUR_API_KEY';
 
 **Running the App**
+
 1.Connect a physical device or start an emulator.
 2.Run the app using the following command:
 flutter run
