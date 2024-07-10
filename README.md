@@ -2,19 +2,19 @@
 
 Welcome to the Weather App built using Flutter! This app provides real-time weather information for any location.
 
-Features
+**Features**
 * Current weather details (temperature, humidity, wind speed, etc.)
 
-Screenshots
 
-Getting Started
-Prerequisites
+
+**Getting Started**
+**Prerequisites**
 Before you begin, ensure you have met the following requirements:
+* You have installed Flutter on your local machine. You can download Flutter from the official Flutter website.
+* You have a code editor such as VS Code or Android Studio.
+* You have an API key from a weather service provider (e.g., OpenWeatherMap).
 
-You have installed Flutter on your local machine. You can download Flutter from the official Flutter website.
-You have a code editor such as VS Code or Android Studio.
-You have an API key from a weather service provider (e.g., OpenWeatherMap).
-Installation
+**Installation**
 1. Clone the repository: 
 git clone https://github.com/ganeshlmdawda/Weather-App---Flutter.git
 2. Navigate to the project directory:
